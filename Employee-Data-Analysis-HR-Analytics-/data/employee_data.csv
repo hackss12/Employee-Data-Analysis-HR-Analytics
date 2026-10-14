@@ -1,0 +1,37 @@
+Employee_ID,Full_Name,Gender,Age,Department,Job_Title,Location,Hire_Date,Experience_Years,Education_Level,Performance_Score,Salary,Bonus_pct,Manager_ID,Attrition_Status,Last_Promotion_Year,Employee_Status
+101,Aarav Sharma,Male,29,Engineering,Software Engineer,Hyderabad,2021-06-12,4,Bachelor,A,85000,8,201,No,2024,Active
+102,Neha Patel,Female,34,HR,HR Manager,Delhi,2018-03-24,7,Master,B,76000,6,104,No,2023,Active
+103,Rohit Verma,Male,41,Finance,Senior Analyst,Bengaluru,2014-08-15,11,Master,A,98000,10,106,No,2024,Active
+104,Sana Khan,Female,27,Marketing,Marketing Executive,Pune,2022-02-18,3,Bachelor,B,62000,5,201,No,2025,Active
+105,Vikas Iyer,Male,32,Engineering,Senior Developer,Mumbai,2019-11-01,7,Bachelor,A,93000,9,201,No,2023,Active
+106,Ananya Gupta,Female,31,Finance,Finance Manager,Bengaluru,2017-05-09,9,Master,A+,105000,12,108,No,2024,Active
+107,Mehul Reddy,Male,26,Sales,Sales Executive,Hyderabad,2023-07-20,2,Bachelor,B,54000,4,110,Yes,2023,Active
+108,Shreya Nair,Female,36,Operations,Operations Lead,Chennai,2016-09-30,10,Master,A,89500,8,201,No,2024,Active
+109,Aditya Rao,Male,28,Engineering,QA Engineer,Hyderabad,2021-01-05,5,Bachelor,B,68000,5,201,No,2022,Active
+110,Divya Joshi,Female,29,Sales,Sales Manager,Delhi,2019-04-27,7,Master,A,88000,9,108,No,2024,Active
+111,Arjun Singh,Male,45,IT,IT Manager,Mumbai,2013-12-10,12,Master,A+,112000,12,115,No,2023,Active
+112,Priyanka Sen,Female,33,HR,Recruitment Specialist,Pune,2020-06-11,6,Bachelor,B,65000,5,102,No,2024,Active
+113,Sameer Ali,Male,39,Engineering,Lead Engineer,Bengaluru,2015-08-07,11,Master,A,110000,10,111,No,2024,Active
+114,Kavya Menon,Female,30,Marketing,Brand Analyst,Chennai,2020-03-23,6,Bachelor,A,71000,7,115,No,2023,Active
+115,Harish Kumar,Male,42,Operations,Senior Operations Manager,Delhi,2012-01-15,13,Master,A+,118000,13,108,Yes,2022,Active
+116,Anita Desai,Female,35,Finance,Accountant,Pune,2018-06-18,8,Bachelor,A,74000,6,106,No,2024,Active
+117,Rahul Kulkarni,Male,27,IT,System Administrator,Hyderabad,2022-09-12,4,Associate Degree,B,61000,4,111,No,2024,Active
+118,Tanya Shah,Female,32,Sales,Senior Sales Executive,Mumbai,2019-08-01,7,Bachelor,A,79000,8,110,No,2023,Active
+119,Varun Nair,Male,24,Engineering,Junior Developer,Chennai,2023-04-05,2,Bachelor,B,52000,3,113,No,2024,Active
+120,Kirti Malhotra,Female,38,HR,HR Business Partner,Delhi,2016-07-25,9,Master,A,89000,9,102,No,2024,Active
+121,Nikhil Rao,Male,31,Operations,Process Analyst,Hyderabad,2018-11-20,8,Bachelor,B,72000,6,115,No,2024,Active
+122,Shruti Iyer,Female,26,Marketing,Content Strategist,Bengaluru,2022-10-08,3,Bachelor,B,56000,4,114,No,2025,Active
+123,Deepak Singh,Male,37,Engineering,Architecture Lead,Delhi,2014-05-14,12,Master,A+,125000,12,111,No,2023,Active
+124,Jyoti Mehta,Female,29,Finance,Financial Analyst,Mumbai,2021-07-17,5,Master,B,69000,5,106,No,2024,Active
+125,Abhishek Jain,Male,33,Sales,Regional Sales Lead,Pune,2017-02-12,10,Master,A,96000,10,110,No,2023,Active
+126,Nisha Verma,Female,27,IT,Data Analyst,Delhi,2021-11-19,4,Master,B,76000,6,111,No,2024,Active
+127,Pranav Nair,Male,30,Marketing,SEO Specialist,Hyderabad,2019-02-03,7,Bachelor,A,73000,7,114,No,2024,Active
+128,Monica Das,Female,34,Operations,Inventory Manager,Chennai,2017-05-09,9,Bachelor,A,82000,8,115,No,2023,Active
+129,Rajesh Khanna,Male,40,Engineering,Team Lead,Bengaluru,2013-09-23,13,Master,A+,130000,14,123,Yes,2022,Active
+130,Simran Gill,Female,25,HR,HR Coordinator,Delhi,2023-05-02,2,Bachelor,B,47000,2,102,No,2024,Active
+131,Manav Kapoor,Male,35,Finance,Senior Accountant,Hyderabad,2018-04-04,8,Bachelor,A,82000,7,106,No,2024,Active
+132,Alisha Bose,Female,28,Sales,Sales Representative,Mumbai,2022-06-30,3,,B,53000,,110,No,2024,Active
+133,Dev Patel,Male,32,IT,Database Engineer,Delhi,2019-09-18,7,Master,A,93000,9,111,No,2024,Active
+134,Saumya Roy,Female,41,Marketing,Marketing Manager,Pune,2015-01-28,11,Master,A+,99000,11,108,No,2023,Active
+135,Rakesh Sinha,Male,44,Operations,Operations Manager,Bengaluru,2011-08-11,15,Master,A+,122000,13,115,Yes,2022,Active
+136,Pooja Singh,Female,30,Engineering,Product Analyst,Hyderabad,2020-12-18,5,Master,B,81000,7,123,No,2024,Active
